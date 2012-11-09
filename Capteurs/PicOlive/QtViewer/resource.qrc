@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/meteo.png</file>
+        <file>img/qt.png</file>
+        <file>img/open.png</file>
+        <file>img/cross.png</file>
+        <file>img/save.png</file>
+        <file>img/read.png</file>
+        <file>img/time.png</file>
+        <file>img/erase.jpg</file>
+        <file>img/raz.jpg</file>
+    </qresource>
+</RCC>

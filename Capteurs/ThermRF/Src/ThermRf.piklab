@@ -1,0 +1,24 @@
+<!DOCTYPE piklab>
+<piklab>
+  <general>
+    <device>16F628A</device>
+    <tool>sdcc</tool>
+    <files>
+      <item>serial.c</item>
+      <item>serial.h</item>
+      <item>sw_i2c.c</item>
+      <item>sw_i2c.h</item>
+      <item>ThermRf.c</item>
+    </files>
+    <programmer>icd2</programmer>
+    <opened_files>
+      <item>ThermRf.c</item>
+    </opened_files>
+  </general>
+  <editors>
+    <bookmarks>
+      <item>file:///home/gnome/Documents/Loisir/Dev/termorf/softi2c.c,79</item>
+      <item>file:///home/gnome/Documents/Loisir/Dev/termorf/serial.c,67</item>
+    </bookmarks>
+  </editors>
+</piklab>

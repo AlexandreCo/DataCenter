@@ -1,0 +1,419 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">QtViewer.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">viewer</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Release</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-s9RXUYI3GQ,guid=6812227b4a08ffc8c73363664b614372</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=default</value>
+    <value type="QString">GDM_LANG=fr_FR.UTF-8</value>
+    <value type="QString">GDM_XSERVER_LOCATION=local</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=4681</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-MukGHy/socket</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/seahorse-sRJ9Gh/S.gpg-agent:4784:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/alexandre/.gtkrc-1.2-gnome2</value>
+    <value type="QString">HOME=/home/alexandre</value>
+    <value type="QString">LANG=fr_FR.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/alexandre/qtsdk-2010.01/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=alexandre</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-alexandre</value>
+    <value type="QString">PATH=/home/alexandre/qtsdk-2010.01/qt/bin:/usr/local/Trolltech/QtEmbedded-4.5.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/alexandre</value>
+    <value type="QString">QTDIR=/home/alexandre/qtsdk-2010.01/qt</value>
+    <value type="QString">SESSION_MANAGER=local/GnOmeBox2:/tmp/.ICE-unix/4694</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=0</value>
+    <value type="QString">SSH_AGENT_PID=4760</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-MukGHy/socket.ssh</value>
+    <value type="QString">USER=alexandre</value>
+    <value type="QString">USERNAME=alexandre</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XAUTHORITY=/home/alexandre/.Xauthority</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString">XDG_SESSION_COOKIE=04da7f4850e5897e7781f00e49ba6350-1264665457.498186-1420880048</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/alexandre/download/viewer_1520/test.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/home/alexandre/qtsdk-2010.01/qt/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/alexandre/download/viewer_1520</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-s9RXUYI3GQ,guid=6812227b4a08ffc8c73363664b614372</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=default</value>
+    <value type="QString">GDM_LANG=fr_FR.UTF-8</value>
+    <value type="QString">GDM_XSERVER_LOCATION=local</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=4681</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-MukGHy/socket</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/seahorse-sRJ9Gh/S.gpg-agent:4784:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/alexandre/.gtkrc-1.2-gnome2</value>
+    <value type="QString">HOME=/home/alexandre</value>
+    <value type="QString">LANG=fr_FR.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/alexandre/qtsdk-2010.01/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=alexandre</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-alexandre</value>
+    <value type="QString">PATH=/home/alexandre/qtsdk-2010.01/qt/bin:/usr/local/Trolltech/QtEmbedded-4.5.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/alexandre</value>
+    <value type="QString">QTDIR=/home/alexandre/qtsdk-2010.01/qt</value>
+    <value type="QString">SESSION_MANAGER=local/GnOmeBox2:/tmp/.ICE-unix/4694</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=0</value>
+    <value type="QString">SSH_AGENT_PID=4760</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-MukGHy/socket.ssh</value>
+    <value type="QString">USER=alexandre</value>
+    <value type="QString">USERNAME=alexandre</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XAUTHORITY=/home/alexandre/.Xauthority</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString">XDG_SESSION_COOKIE=04da7f4850e5897e7781f00e49ba6350-1264665457.498186-1420880048</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/alexandre/download/viewer_1520</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-29x0yW5W6B,guid=2f56631406e676bd6058f0b74b6145a4</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=default</value>
+    <value type="QString">GDM_LANG=fr_FR.UTF-8</value>
+    <value type="QString">GDM_XSERVER_LOCATION=local</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=4198</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-gCqHSW/socket</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/seahorse-7aqZTp/S.gpg-agent:4307:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/baptiste/.gtkrc-1.2-gnome2</value>
+    <value type="QString">HOME=/home/baptiste</value>
+    <value type="QString">LANG=fr_FR.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtsdk-2009.05/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=baptiste</value>
+    <value type="QString">MAKEFLAGS=-I/opt/qnx641/target/qnx6/usr/include</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-baptiste</value>
+    <value type="QString">PATH=/opt/qtsdk-2009.05/qt/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/opt/qnx641/host/linux/x86/usr/bin:/etc/qnx/bin</value>
+    <value type="QString">PWD=/home/baptiste</value>
+    <value type="QString">QNX_CONFIGURATION=/etc/qnx</value>
+    <value type="QString">QNX_HOST=/opt/qnx641/host/linux/x86</value>
+    <value type="QString">QNX_JAVAHOME=/opt/qnx641/_jvm</value>
+    <value type="QString">QNX_TARGET=/opt/qnx641/target/qnx6</value>
+    <value type="QString">QTDIR=/opt/qtsdk-2009.05/qt</value>
+    <value type="QString">SESSION_MANAGER=local/Croquignol:/tmp/.ICE-unix/4211</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=0</value>
+    <value type="QString">SSH_AGENT_PID=4279</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-gCqHSW/socket.ssh</value>
+    <value type="QString">USER=baptiste</value>
+    <value type="QString">USERNAME=baptiste</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XAUTHORITY=/tmp/.gdmHXMP7U</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString">XDG_SESSION_COOKIE=64cf17108feecdd23d68cc3549365d62-1264666018.813554-1680281463</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/opt/Projets/CP_GeorgeRenault/doc/tmp/Alex/viewer</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-jiFvuWcJwF,guid=b1f88b901bc84c4faa68a7ef4ba08d05</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=default</value>
+    <value type="QString">GDM_LANG=fr_FR.UTF-8</value>
+    <value type="QString">GDM_XSERVER_LOCATION=local</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=5132</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-Yyxq1P/socket</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/seahorse-jupD2m/S.gpg-agent:5232:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/alexandre/.gtkrc-1.2-gnome2</value>
+    <value type="QString">HOME=/home/alexandre</value>
+    <value type="QString">LANG=fr_FR.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/alexandre/qtsdk-2010.01/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=alexandre</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-alexandre</value>
+    <value type="QString">PATH=/home/alexandre/qtsdk-2010.01/qt/bin:/usr/local/Trolltech/QtEmbedded-4.5.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/alexandre</value>
+    <value type="QString">QTDIR=/home/alexandre/qtsdk-2010.01/qt</value>
+    <value type="QString">SESSION_MANAGER=local/GnOmeBox2:/tmp/.ICE-unix/5144</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=0</value>
+    <value type="QString">SSH_AGENT_PID=5209</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-Yyxq1P/socket.ssh</value>
+    <value type="QString">USER=alexandre</value>
+    <value type="QString">USERNAME=alexandre</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XAUTHORITY=/home/alexandre/.Xauthority</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString">XDG_SESSION_COOKIE=04da7f4850e5897e7781f00e49ba6350-1268813060.678355-78587332</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/alexandre/PicOliveGnOme/QtViewer/QtViewer.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/home/alexandre/qtsdk-2010.01/qt/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/alexandre/PicOliveGnOme/QtViewer</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-jiFvuWcJwF,guid=b1f88b901bc84c4faa68a7ef4ba08d05</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=default</value>
+    <value type="QString">GDM_LANG=fr_FR.UTF-8</value>
+    <value type="QString">GDM_XSERVER_LOCATION=local</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=5132</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-Yyxq1P/socket</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/seahorse-jupD2m/S.gpg-agent:5232:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/alexandre/.gtkrc-1.2-gnome2</value>
+    <value type="QString">HOME=/home/alexandre</value>
+    <value type="QString">LANG=fr_FR.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/alexandre/qtsdk-2010.01/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=alexandre</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-alexandre</value>
+    <value type="QString">PATH=/home/alexandre/qtsdk-2010.01/qt/bin:/usr/local/Trolltech/QtEmbedded-4.5.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/alexandre</value>
+    <value type="QString">QTDIR=/home/alexandre/qtsdk-2010.01/qt</value>
+    <value type="QString">SESSION_MANAGER=local/GnOmeBox2:/tmp/.ICE-unix/5144</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=0</value>
+    <value type="QString">SSH_AGENT_PID=5209</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-Yyxq1P/socket.ssh</value>
+    <value type="QString">USER=alexandre</value>
+    <value type="QString">USERNAME=alexandre</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XAUTHORITY=/home/alexandre/.Xauthority</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString">XDG_SESSION_COOKIE=04da7f4850e5897e7781f00e49ba6350-1268813060.678355-78587332</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/alexandre/PicOliveGnOme/QtViewer</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-eLMjuq4R8D,guid=ae403b13ff10aef50bbe407f4b692c60</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=default</value>
+    <value type="QString">GDM_LANG=fr_FR.UTF-8</value>
+    <value type="QString">GDM_XSERVER_LOCATION=local</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_PID=5090</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-5bUEsn/socket</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/seahorse-7QnR4O/S.gpg-agent:5191:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/alexandre/.gtkrc-1.2-gnome2</value>
+    <value type="QString">HOME=/home/alexandre</value>
+    <value type="QString">LANG=fr_FR.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/alexandre/qtsdk-2010.01/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=alexandre</value>
+    <value type="QString">ORBIT_SOCKETDIR=/tmp/orbit-alexandre</value>
+    <value type="QString">PATH=/home/alexandre/qtsdk-2010.01/qt/bin:/usr/local/Trolltech/QtEmbedded-4.5.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/alexandre</value>
+    <value type="QString">QTDIR=/home/alexandre/qtsdk-2010.01/qt</value>
+    <value type="QString">SESSION_MANAGER=local/GnOmeBox2:/tmp/.ICE-unix/5103</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=0</value>
+    <value type="QString">SSH_AGENT_PID=5168</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-5bUEsn/socket.ssh</value>
+    <value type="QString">USER=alexandre</value>
+    <value type="QString">USERNAME=alexandre</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XAUTHORITY=/home/alexandre/.Xauthority</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/usr/share/gdm/</value>
+    <value type="QString">XDG_SESSION_COOKIE=04da7f4850e5897e7781f00e49ba6350-1265183839.482021-1495023081</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/alexandre/PicOlive/QtViewer</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>

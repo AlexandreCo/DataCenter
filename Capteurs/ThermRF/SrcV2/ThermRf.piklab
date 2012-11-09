@@ -1,0 +1,30 @@
+<!DOCTYPE piklab>
+<piklab>
+  <general>
+    <device>16F88</device>
+    <tool>sdcc</tool>
+    <files>
+      <item>serial.c</item>
+      <item>serial.h</item>
+      <item>sw_i2c.c</item>
+      <item>sw_i2c.h</item>
+      <item>ThermRf.c</item>
+      <item>io.c</item>
+      <item>io.h</item>
+      <item>time.h</item>
+      <item>wdt.h</item>
+      <item>wdt.c</item>
+      <item>ds1624.h</item>
+      <item>ds1624.c</item>
+      <item>rf.h</item>
+      <item>rf.c</item>
+    </files>
+    <programmer>icd2</programmer>
+  </general>
+  <editors>
+    <bookmarks>
+      <item>file:///home/gnome/Documents/Loisir/Dev/termorf/softi2c.c,79</item>
+      <item>file:///home/gnome/Documents/Loisir/Dev/termorf/serial.c,67</item>
+    </bookmarks>
+  </editors>
+</piklab>
