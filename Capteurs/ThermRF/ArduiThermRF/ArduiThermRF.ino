@@ -53,6 +53,7 @@ void enterSleep(void)
 void setup() {  
 	//Begin serial connection at 4800 baud
 	Serial.begin(4800);
+        temperature.start();
 	/*** Configure the timer.***/
 	/* Normal timer operation.*/
 	TCCR1A = 0x00;
